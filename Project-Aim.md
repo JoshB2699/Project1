@@ -1,0 +1,1 @@
+The aim of this project is to learn how to use GitHub. So far; so good.
